@@ -19,6 +19,10 @@ h1 {
 }
 main {
     height: 90%;
+    display: flex;
+}
+img {
+    border-radius: 20%;
 }
 footer {
     text-align: right;
