@@ -25,5 +25,17 @@ img {
     border-radius: 20%;
 }
 footer {
-    text-align: right;
+   display: flex;
+   justify-content: space-between;
+}
+figcaption {
+    text-align: center;
+    
+}
+.footer-link {
+    text-decoration: none;
+    color: black;
+}
+.footer-link:hover {
+    color: crimson;
 }
